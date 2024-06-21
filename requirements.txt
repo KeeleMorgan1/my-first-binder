@@ -1,1 +1,7 @@
-numpy==1.14.5
+scipy
+matplotlib
+imageio
+joblib
+scikit-learn
+pandas as pd
+numpy as np
